@@ -1,0 +1,83 @@
+* {
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+}
+
+.contenedor {
+    width: 600px;
+    border: 1px solid black;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 30px 1px rgb(194, 194, 194);
+}
+
+.contenedorTwo{
+    width: 600px;
+    border: 1px solid black;
+    text-align: center;
+    margin: auto;
+    margin-top: 130px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 30px 1px rgb(194, 194, 194);
+}
+
+.contenedorThree{
+    width: 800px;
+    border: 1px solid black;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 30px 1px rgb(194, 194, 194);
+}
+
+.variables {
+    display: inline-flex;
+}
+
+.form-control {
+    margin-left: 20px;
+}
+
+.btn-group {
+    margin-left: 20px;
+}
+
+.btn-check {
+    padding-left: 35px;
+}
+
+.custom {
+    width: 50px;
+}
+
+.form-select {
+    margin-left: 20px;
+}
+
+#two {
+    display: none;
+}
+
+#three {
+    display: none;
+}
+
+.est {
+    display: inline-flex;
+}
+
+.est p {
+    margin-left: 20px;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 15px;
+}
